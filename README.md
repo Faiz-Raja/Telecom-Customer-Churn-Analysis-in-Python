@@ -2,7 +2,7 @@
 
 This project aims to analyze customer churn patterns for a telecom company using customer demographics, account details, and service usage. The goal is to identify key drivers of churn and provide actionable business insights to reduce customer attrition.
 
-**Please review the Python Notebook in the attachement to get the entire Insights and Recommendations for the analysis**
+**Please review the Python Notebook (TCA.ipynb) in the attachement to get the entire Insights and Recommendations for the analysis**
 
 ---
 ## 📌 Overview
